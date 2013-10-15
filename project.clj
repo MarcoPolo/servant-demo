@@ -1,4 +1,4 @@
-(defproject servant-demo "0.1.2T"
+(defproject servant-demo "0.1.2"
   :description "Demo for servant library"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-1859"] 
                  [org.clojure/core.async "0.1.222.0-83d0c2-alpha"]
-                 [servant "0.1.0-SNAPSHOT"] ]
+                 [servant "0.1.2"] ]
   :cljsbuild
               {:builds
                [{:id "servant-demo"
