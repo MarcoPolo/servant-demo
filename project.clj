@@ -1,4 +1,4 @@
-(defproject servant-demo "0.1.0-SNAPSHOT"
+(defproject servant-demo "0.1.2T"
   :description "Demo for servant library"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
