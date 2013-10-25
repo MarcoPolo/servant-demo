@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-1859"] 
                  [org.clojure/core.async "0.1.222.0-83d0c2-alpha"]
-                 [servant "0.1.2"] ]
+                 [servant "0.1.3"] ]
   :cljsbuild
               {:builds
                [{:id "servant-demo"
